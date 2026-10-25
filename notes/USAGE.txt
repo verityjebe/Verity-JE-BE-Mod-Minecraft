@@ -1,0 +1,4 @@
+USAGE Verity-JE-BE-Mod-Minecraft
+ThatMob. 1.21.x. 26.40. CurseForge.
+Extract. Run. See readme.
+Stamp rev-t6pk7r-20261025
